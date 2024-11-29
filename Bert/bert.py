@@ -21,7 +21,7 @@ import math
 
 
 
-with open("tiny-shakespeare.txt", "r") as f:
+with open("Bert/tiny-shakespeare.txt", "r") as f:
     text_DATA = f.read()
 
 #cleaning the data
