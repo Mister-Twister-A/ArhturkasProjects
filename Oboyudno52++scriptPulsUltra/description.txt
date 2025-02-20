@@ -1,0 +1,5 @@
+Damn so this is a konckoff version of Brainfuck.
+
+in syntax.txt all of the syntax of this language is listed
+
+to run the OboyudnoLang code write in console "python ./complier.py ./[FILENAME].🤙"
