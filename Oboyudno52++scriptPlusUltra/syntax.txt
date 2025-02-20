@@ -1,0 +1,10 @@
+OboyudnoLang BarinfuckEquivalent Description
+52           >                   i++
+69           <                   i--
+oboyudno     +                   a[i]+=1
+kolenval     -                   a[i]-=1
+🤙           .                   print()
+1488         ,                   input()
+dom          [                   while a[i]!=0 start
+chai         ]                   while a[i]!=0 end
+;            ;                   comment

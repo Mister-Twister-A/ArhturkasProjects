@@ -1,0 +1,7 @@
+Damn so this is a konckoff version of Brainfuck.
+
+in syntax.txt all of the syntax of this language is listed
+
+to run the OboyudnoLang code write in console "python ./complier.py ./[FILENAME].🤙"
+
+note that it takes the ascii index when using 🤙. So to output 1 you should use 🤙 on a cell with 49 in it
