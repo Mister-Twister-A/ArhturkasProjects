@@ -52,8 +52,8 @@ int main (int arc, char *argv[]) {
         f.write(program)
     os.system("gcc -Wall tmp.c -o tmp")
     os.system("./tmp")
-    #os.remove("./tmp.c")
-    #os.remove("./tmp")
+    os.remove("./tmp.c")
+    os.remove("./tmp")
     
     
 compile_(no_comments)
